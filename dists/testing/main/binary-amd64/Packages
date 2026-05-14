@@ -1,0 +1,14 @@
+Package: binarycalculator
+Version: 1.0.0
+Architecture: amd64
+Depends: default-jre (>= 21) | openjdk-21-jre
+Maintainer: RANDRIAMANANTSOA Heriniaina <irdnarheriniaina@gmail.com>
+Priority: optional
+Section: java
+Filename: pool/main/b/binarycalculator/binarycalculator_1.0.0_amd64.deb
+Size: 39316
+SHA256: 5e8b409fc71e4839833e38d4348d4942343fe2f1efa22b3da908988f3239ab1f
+SHA1: 3741f3de22802baaa7bad9819b2ed83eb6fe5577
+MD5sum: 94a9ace5e4bd11cdc86751fa12710a21
+Description: Java Application used to do calcul between two numbers(in binary)
+

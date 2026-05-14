@@ -1,0 +1,19 @@
+Origin: Herra-dev
+Label: Herra-dev repository
+Codename: testing
+Date: Thu, 14 May 2026 21:44:46 UTC
+Architectures: amd64
+Components: main
+Description: Repository for java application
+MD5Sum:
+ 7ab2ffebf7d0877b43208d7e794d018d 534 main/binary-amd64/Packages
+ bf128c0adf8d4b1789a1173e178d8a5e 399 main/binary-amd64/Packages.gz
+ 13d3e33f13b09793f630e9f501d571e8 127 main/binary-amd64/Release
+SHA1:
+ 2a48932654df30bd6111dbe96662a9a604907520 534 main/binary-amd64/Packages
+ 7c29adbe24c7ab8cb50dd12fac416c19c8904450 399 main/binary-amd64/Packages.gz
+ d0b987fe1b2836689b049a981e77628ee04cb514 127 main/binary-amd64/Release
+SHA256:
+ 11ebaf122850ed7ab8fcf0eaef9a7d4baa15c2547ba540e4ea6946eaa68e39be 534 main/binary-amd64/Packages
+ a13276039a1c894022b593374760c564945b368d9e0003edd31f7d1d08c6e8af 399 main/binary-amd64/Packages.gz
+ cf2b2cd6ae8fbeb87120b6a767f903f26f28d41c35765be4dcb0a25e1b13f20c 127 main/binary-amd64/Release

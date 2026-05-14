@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Herra-dev
+Label: Herra-dev repository
+Codename: testing
+Date: Thu, 14 May 2026 21:44:46 UTC
+Architectures: amd64
+Components: main
+Description: Repository for java application
+MD5Sum:
+ 7ab2ffebf7d0877b43208d7e794d018d 534 main/binary-amd64/Packages
+ bf128c0adf8d4b1789a1173e178d8a5e 399 main/binary-amd64/Packages.gz
+ 13d3e33f13b09793f630e9f501d571e8 127 main/binary-amd64/Release
+SHA1:
+ 2a48932654df30bd6111dbe96662a9a604907520 534 main/binary-amd64/Packages
+ 7c29adbe24c7ab8cb50dd12fac416c19c8904450 399 main/binary-amd64/Packages.gz
+ d0b987fe1b2836689b049a981e77628ee04cb514 127 main/binary-amd64/Release
+SHA256:
+ 11ebaf122850ed7ab8fcf0eaef9a7d4baa15c2547ba540e4ea6946eaa68e39be 534 main/binary-amd64/Packages
+ a13276039a1c894022b593374760c564945b368d9e0003edd31f7d1d08c6e8af 399 main/binary-amd64/Packages.gz
+ cf2b2cd6ae8fbeb87120b6a767f903f26f28d41c35765be4dcb0a25e1b13f20c 127 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEh43EA4n8ZvYNCGZT2o0MVoeRgAAFAmoGQlwACgkQ2o0MVoeR
+gADrWA/+MjOVGfhdg5i/SovAZm3LrTQNjhHNxNP6qVWT3PK0H12xDzv0HGe1D+Il
+FCo0FJwgS/euXrBONVFWaTVfg5656wqxzDwR4P4ohV+Y0JV+lK2XiUE/NPhNMiS1
+aBKjOOxbBOgFA+qKfQrvRAP6PktN3TxewESAP4VyRjmIs3XM2rDKfH9JhDmE7LA5
+6sm0bM4As+Jr/3aU0SFWaxP8oEIWsGQKR3YtX6h13TutdbrEZnCWLDNt6fvbSN7B
+rHwpxe2AL0AkduPP9wGwtYIt2hIGcM/Hy0dkg8PHN8wlDzIM72jNtXywhOoFYhFt
+gz+LL1OptuiLldtnUNbdcTxix5GYNi4sRl9GLLBKd0d1t+WQqz0dfGQLbl08iGrN
+4EGtJ7fXNDwUSbshSHDEaSoYMSGkZLXyfc8qKJi8Xks5HMe+flP9oBDJ+9thYelZ
+hpP2DE+w+EFI/lLQbALsWW2pEVZVk5z5gEcbgdMmZVZjBU42Qa8Gh9lN3hf4czWC
+DIW4xzYtVKA2reb1doRHos11HJGqteel7oxC/TN6PeV0D0B2S4FxgejLzU5DatgF
+8E1rQwsHe8BQQlrLxmxPfYCDuY6aeQAKNx/FN48A1uk2rMVDfK53ScZ2ptl5WS61
+pEuGxGlobLgh0TzD7LPQUC08SVrDMvJeW4mvqCuk4kdH6BHRroY=
+=/KXY
+-----END PGP SIGNATURE-----
