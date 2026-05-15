@@ -6,9 +6,9 @@ Maintainer: RANDRIAMANANTSOA Heriniaina <irdnarheriniaina@gmail.com>
 Priority: optional
 Section: java
 Filename: pool/main/b/binarycalculator/binarycalculator_1.0.0_amd64.deb
-Size: 39316
-SHA256: 5e8b409fc71e4839833e38d4348d4942343fe2f1efa22b3da908988f3239ab1f
-SHA1: 3741f3de22802baaa7bad9819b2ed83eb6fe5577
-MD5sum: 94a9ace5e4bd11cdc86751fa12710a21
+Size: 39328
+SHA256: 09d5c10851ff1eeb428d080ca4f42c015e10bd088fcab2cc0f6dbefc2947de54
+SHA1: 865a33c4f13e9420566e85650547af99af43a548
+MD5sum: 557657c015f59a1bc390565f415fc96e
 Description: Java Application used to do calcul between two numbers(in binary)
 
