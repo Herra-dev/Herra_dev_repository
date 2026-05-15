@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: Herra-dev
 Label: Herra-dev repository
 Codename: testing
-Date: Fri, 15 May 2026 06:42:51 UTC
+Date: Fri, 15 May 2026 06:47:35 UTC
 Architectures: amd64
 Components: main
 Description: Repository for java application
 MD5Sum:
- e6f69ad1f3922dd019a4605361173413 534 main/binary-amd64/Packages
- b278fdc1efce6d9f497808e7b097a110 399 main/binary-amd64/Packages.gz
+ 3c1aec6d3f29a7549221eeecca24145e 1066 main/binary-amd64/Packages
+ 13b4c49158b294180ed2ed1e5ea75495 535 main/binary-amd64/Packages.gz
  13d3e33f13b09793f630e9f501d571e8 127 main/binary-amd64/Release
 SHA1:
- 409a8ec78804fb15b6fc04f3b5d3c76c4b591b5d 534 main/binary-amd64/Packages
- 6f8276c08a03e55756d0ac0af889a1b60631e652 399 main/binary-amd64/Packages.gz
+ 256337b5b8ea3c26f4a19f45fcdf3499dac93686 1066 main/binary-amd64/Packages
+ b7ebe6036c361be52e74e4fdb0435fef8aad3e13 535 main/binary-amd64/Packages.gz
  d0b987fe1b2836689b049a981e77628ee04cb514 127 main/binary-amd64/Release
 SHA256:
- abc9f131f59f028e42e4b344fd144c37d138b6bcb06e63a97b04ef286fc798af 534 main/binary-amd64/Packages
- 1e8646b329f4b8e0189b0fdb62da8460c9039af7cd97be94e1c8442adc225145 399 main/binary-amd64/Packages.gz
+ 05edf57cfd20fe57a79bc6128737a91a8f5ca3cd1681849316963c213a2f6b59 1066 main/binary-amd64/Packages
+ 242a61ac24052588fed69ca5d299f1c2e868a7565938966524123884e04f2798 535 main/binary-amd64/Packages.gz
  cf2b2cd6ae8fbeb87120b6a767f903f26f28d41c35765be4dcb0a25e1b13f20c 127 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEh43EA4n8ZvYNCGZT2o0MVoeRgAAFAmoGwGsACgkQ2o0MVoeR
-gACYDBAAoXh/Beu7fcFCUYOweoqZ3Ou4tQvfCWyLxmsNaIewWoXG3gM2vq8JaKPF
-H4l9SNfUFX/r4cy5FKOIF8dy6EMcB43zcpBQVnhD5HPud4y6mVRpuRyXGmzN1PA6
-aX1MQChg2EBQZIFRwve4wM5eiHeEn4ZRdvzozbXPypMSHylL77i0JRkTSTHWCnod
-ZWp3BcnR9xjeBiJAKmoGN/cISvWSLoAHQL0/rt/Ci8IoSOtMlDMqKabhK9hTfT//
-Eo4VekVJDWF/fdB66bh7nNdKmrOqGy6tHSZMY6nF2zcxVZ1Pffeh4jDIst84znT8
-i4noHGydvqt1MFZXGphMv05NEooPM7ttvpocQwOhTTw5a5vXQtnmp+iae3E471TP
-gctPAExoJsuZ/3efoYcNMdoB0vsgIfR3mYwU9tW9Deqd0JCQw5mO6dO0WifhkITH
-jN26072wAlZ/5ZA8yEh2eBaDSaQTMYZtF+jYPDBToc7R+F0S/MvO0i9KFMLcpf59
-7ivmnBLpwYG5B5EvvE1yX5qszVTskyYxrCpzWs7rj/4XcZx1cI02ejDxMmh9pkZs
-Yo8bRAuwLUeGeeDVjo3xt2jwFCnteaQ3L5oLmGD5jpnPAzsYgRjHhdFqQf19SbMW
-ypbU6mKXEOrn6SaSVmOGReadCj8CpZerv6AkwIV+usZPBabImqw=
-=kYqf
+iQIzBAEBCgAdFiEEh43EA4n8ZvYNCGZT2o0MVoeRgAAFAmoGwYcACgkQ2o0MVoeR
+gABglw/+Ooxjr+h42GaHmx1ahze3dlRWa8NgV7JjgKxv9GxIMeXf1cvhVjl0vRKD
+s1mwajDWBLTFO9ETHQzTQNoz7SGshoL/socm6laiQDkQ0DpUf1VD51NhbSvqmtw4
+JbeHFr4oF8WjBJF6cnErRMOqB9+2UM3+Lvxc0AjPeWs3yMr3J7PRkyPERSfyz/VA
+TCAUmjIW6W+QWkIid5Wp9i1yo09A9D4Se3PwVnGjU0ckIiEQyofkUT4EUXbNwci1
+ciQ5RxVo9kAEFday8Go7Mmjx8AkU0eZ2kKyHBPwdEyPmJgdqz3XtEyQj27rQPdVu
+xwEKmss7f/i5bEyTltaqj4aSmzOHc+czy4xo0ibVLxT1frF6fXsqHJFMUrqu28JB
+4UI8Yf+xLf4eZ1+Mi851Xlsjbe0U7b4ag1KGWGyne3cnbRB6S6AGldqybFhDrMPj
+Xj2uQug/Lj4TSp/Dmn4z/5Cj9tKeJDJJfd5oK6vOyxxFJlz7WmJ3TiQWlODr2hj2
+Grvgy8MLWzHCF2GoashtseSkOuN+5xLt0vtyzsyemFlU11VPrOpad2mfgn4Yaulh
+kybZNwrcIMIBfv4UAlVY6iVu6w1AIz+krHEHho1kze70RZMZvrcfnbrO2J0NrkbM
+ves5rGyqMadkg1Q5SZ9Duve+zPOcRs3vBfKL1v9wGctk+Vfxx/U=
+=VqkH
 -----END PGP SIGNATURE-----

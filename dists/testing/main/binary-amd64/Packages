@@ -12,3 +12,17 @@ SHA1: 865a33c4f13e9420566e85650547af99af43a548
 MD5sum: 557657c015f59a1bc390565f415fc96e
 Description: Java Application used to do calcul between two numbers(in binary)
 
+Package: binaryconvertor
+Version: 1.0.0
+Architecture: amd64
+Depends: default-jre (>= 21) | openjdk-21-jre
+Maintainer: RANDRIAMANANTSOA Heriniaina <irdnarheriniaina@gmail.com>
+Priority: optional
+Section: java
+Filename: pool/main/b/binaryconvertor/binaryconvertor_1.0.0_amd64.deb
+Size: 39440
+SHA256: d3e88b548dadf087823c0cddd9df1a3b74ba052f6bafc755f0aedc6cb34e13cc
+SHA1: d35060e15bc86b29933c4bc7646796b253f7df69
+MD5sum: 0de4c36189db1230a9c03a34a9708f1c
+Description: Java Application used to convert decimal number into binary number
+
