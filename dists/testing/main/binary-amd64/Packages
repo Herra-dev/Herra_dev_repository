@@ -26,3 +26,17 @@ SHA1: d35060e15bc86b29933c4bc7646796b253f7df69
 MD5sum: 0de4c36189db1230a9c03a34a9708f1c
 Description: Java Application used to convert decimal number into binary number
 
+Package: sasaki
+Version: 1.0.0
+Architecture: amd64
+Depends: libqt6gui6, libqt6core6, libqt6webenginecore6, libqt6webenginewidgets6
+Maintainer: RANDRIAMANANTSOA Heriniaina <irdnarheriniaina@gmail.com>
+Priority: optional
+Section: cpp
+Filename: pool/main/s/sasaki/sasaki_1.0.0_amd64.deb
+Size: 2852576
+SHA256: 5710c67e52022f4ce6f4823fdaf094ca13be783c0c6e3b7fca16533fcaf1f29b
+SHA1: bada76bbf9e29b5247c065762ef38d0e55acab8f
+MD5sum: 7714eddb68c18517c6a3115d48e3194c
+Description: Sasaki - A simple web browser. Sasaki is a lightweight web browser built with C++ and Qt
+

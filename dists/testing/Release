@@ -1,19 +1,19 @@
 Origin: Herra-dev
 Label: Herra-dev repository
 Codename: testing
-Date: Fri, 15 May 2026 06:47:35 UTC
+Date: Sat, 16 May 2026 19:49:22 UTC
 Architectures: amd64
 Components: main
 Description: Repository for java application
 MD5Sum:
- 3c1aec6d3f29a7549221eeecca24145e 1066 main/binary-amd64/Packages
- 13b4c49158b294180ed2ed1e5ea75495 535 main/binary-amd64/Packages.gz
+ 9b816717272c52651fdd8f39292803b1 1628 main/binary-amd64/Packages
+ c8f70ec4e91df2525145062dca2dc943 747 main/binary-amd64/Packages.gz
  13d3e33f13b09793f630e9f501d571e8 127 main/binary-amd64/Release
 SHA1:
- 256337b5b8ea3c26f4a19f45fcdf3499dac93686 1066 main/binary-amd64/Packages
- b7ebe6036c361be52e74e4fdb0435fef8aad3e13 535 main/binary-amd64/Packages.gz
+ 310d42d79bb5e61aa3e8bad6cb99085573041b74 1628 main/binary-amd64/Packages
+ bb2fe31407b0dd8d63f49b65bf92b59063625bb5 747 main/binary-amd64/Packages.gz
  d0b987fe1b2836689b049a981e77628ee04cb514 127 main/binary-amd64/Release
 SHA256:
- 05edf57cfd20fe57a79bc6128737a91a8f5ca3cd1681849316963c213a2f6b59 1066 main/binary-amd64/Packages
- 242a61ac24052588fed69ca5d299f1c2e868a7565938966524123884e04f2798 535 main/binary-amd64/Packages.gz
+ 84ed5b348c61b0105b1e89f6b3a7b90cbff0821ef18ff141329c2c0c33169955 1628 main/binary-amd64/Packages
+ a18feaf941b6f3cf6d0a112762230cbba625edabd61836fa6cbf155b0c5ecbff 747 main/binary-amd64/Packages.gz
  cf2b2cd6ae8fbeb87120b6a767f903f26f28d41c35765be4dcb0a25e1b13f20c 127 main/binary-amd64/Release
